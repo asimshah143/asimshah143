@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently working as a node js developer<br>Working on TypeScript and Javascript <br>
+As a Software Engineer with 2+ years of experience in Backend Development I'm passionate about cutting-edge 
+web technologies. With a strong foundation in MongoDB, Express.js, React.js, and Nest.js, I excel in designing and 
+maintaining high-quality web applications. My experience in Agile development has honed my problem-solving 
+skills, and I'm eager to explore the intersection of AI for enhanced user experiences. I actively contribute to code 
+reviews, architectural discussions, and continuous improvement
 
 
 # 💻 Tech Stack:
